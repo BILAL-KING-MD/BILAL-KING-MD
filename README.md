@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/bxqan2.png" />
+  <img src="" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
