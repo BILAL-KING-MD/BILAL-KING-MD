@@ -257,7 +257,7 @@ Platform	Status
 > Never miss updates, feature drops, or guides!
 
 - 📢 **WhatsApp Channel**  
-  [![Join WhatsApp]https://whatsapp.com/channel/0029Vb6cIXx65yDHPJv5ef2R
+  [![Join WhatsApp](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb6cIXx65yDHPJv5ef2R)
 
 - ▶️ **YouTube: Bilal Saab**  
   [![Subscribe YouTube]https://youtube.com/@bilalsaab-re3qm?si=xF0NSQQrqLw-34wK
