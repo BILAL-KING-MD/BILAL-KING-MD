@@ -225,7 +225,7 @@ Platform	Status
 
 ## ⚠️ Disclaimer
 
-- ❗ Arslan-MD is **not affiliated with WhatsApp Inc.**
+- ❗ BILAL-KING-MD is **not affiliated with WhatsApp Inc.**
 - 🚫 Misuse can lead to bans. Use at your own risk.
 - 🛑 Cloning or modifying without proper credit is prohibited.
 
@@ -257,10 +257,10 @@ Platform	Status
 > Never miss updates, feature drops, or guides!
 
 - 📢 **WhatsApp Channel**  
-  [![Join WhatsApp]
+  [![Join WhatsApp]https://whatsapp.com/channel/0029Vb6cIXx65yDHPJv5ef2R
 
-- ▶️ **YouTube: ArslanMD Official**  
-  [![Subscribe YouTube]
+- ▶️ **YouTube: Bilal Saab**  
+  [![Subscribe YouTube]https://youtube.com/@bilalsaab-re3qm?si=xF0NSQQrqLw-34wK
 
 
 
