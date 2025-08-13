@@ -1,4 +1,4 @@
-# 〘 ARSLAN-MD 〙  
+# 〘 BILAL-KING-MD 〙  
 > ✨ *Ultra Pro Max WhatsApp Bot* ✨  
 
 ## Folders:  
@@ -7,9 +7,9 @@
 - 🗃️ `database` - User data
 
 
-🤖 ***Arslan-MD*** - MULTIPLE POWERFUL WHATSAPP BOT
+🤖 ***BILAL-KING-MD*** - MULTIPLE POWERFUL WHATSAPP BOT
 
-> ⚔️ Developed by ArslanMD Official | 100+ Features | Super Aggressive Bot
+> ⚔️ Developed by BILALMD Official | 100+ Features | Super Aggressive Bot
 </div>
 
 <p align="center">
