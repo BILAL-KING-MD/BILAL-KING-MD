@@ -45,7 +45,7 @@
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
-<a href="https://github.com/BILAL-KING-MD/BILAL-KING-MD/fork"><img src="https://img.shields.io/github/forks/BILAL-KING-MD/BILAL-KING-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20Arslan-MD" alt="Fork BILAL-KING-MD" /></a>
+<a href="https://github.com/BILAL-KING-MD/BILAL-KING-MD/fork"><img src="https://img.shields.io/github/forks/BILAL-KING-MD/BILAL-KING-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20BILAL-KING-MD" alt="Fork BILAL-KING-MD" /></a>
 
 ---
 
