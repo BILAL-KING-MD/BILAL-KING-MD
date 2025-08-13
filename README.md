@@ -25,11 +25,11 @@
 
   <!-- GitHub Stats Badges with new color palette -->
   <p>
-    <img src="https://img.shields.io/github/forks/Arslan-MD/Arslan-Ai?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/followers/Arslan-MD?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/Arslan-MD/Arslan-Ai?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.shields.io/github/repo-size/Arslan-MD/Arslan-Ai?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/Arslan-MD/Arslan-Ai?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+    <img src="https://img.shields.io/github/forks/BILAL-KING-MD/BILAL-KING-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/followers/BILAL-KING-MD?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/BILAL-KING-MD/BILAL-KING-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/BILAL-KING-MD/BILAL-KING-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/package-json/v/BILAL-KING-MD/BILAL-KING-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
   </p>
 
   <!-- Hero GIF with updated border & hover effect -->
@@ -39,13 +39,13 @@
 
 </div>
 
-# Arslan-MD Setup
+# BILAL-KING-MD Setup
 
 ### 🚀 Fork the Repository
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
-<a href="https://github.com/Arslan-MD/Arslan-MD/fork"><img src="https://img.shields.io/github/forks/Arslan-MD/Arslan-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20Arslan-MD" alt="Fork Arslan-MD" /></a>
+<a href="https://github.com/BILAL-KING-MD/BILAL-KING-MD/fork"><img src="https://img.shields.io/github/forks/BILAL-KING-MD/BILAL-KING-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20Arslan-MD" alt="Fork BILAL-KING-MD" /></a>
 
 ---
 
@@ -70,13 +70,13 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 </p>
 
 <p align="center" style="color:#777;font-size:13px;">
-  <img src="https://github.com/Arslan-MD/Arslan-MD/blob/main/assets/warning.gif?raw=true" width="15" />
+  <img src="https://github.com/BILAL-KING-MD/BILAL-KING-MD/blob/main/assets/warning.gif?raw=true" width="15" />
   <em>Having connection issues? Try using a VPN.</em>
 </p>
 
 
 <div align="center">
-  <img src="https://github.com/Arslan-MD/Arslan-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/BILAL-KING-MD/BILAL-KING-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 <h2 align="center">🚀 Deployment Options</h2>
@@ -184,9 +184,9 @@ jobs:
 
 ---
 
-🚀 What is Arslan-MD?
+🚀 What is BILAL-KING-MD?
 
-Arslan-MD is a fully advanced, aggressive, and ultra customizable WhatsApp bot powered by Baileys MD. Designed for both personal use and public deployment, this bot includes more than 100+ commands, including:
+BILAL-KING-MD is a fully advanced, aggressive, and ultra customizable WhatsApp bot powered by Baileys MD. Designed for both personal use and public deployment, this bot includes more than 100+ commands, including:
 
 ✅ AI Chatbots (GPT-4, Gemini, Meta, Copilot)
 
@@ -233,9 +233,9 @@ Platform	Status
 
 ## 💡 Credits & Contributors
 
-> Made with ❤️ by Arslan-MD 
+> Made with ❤️ by BILAL-KING-MD 
 
-- 👤 [ArslanMD Official](https://github.com/Arslan-MD) – Creator & Maintainer  
+- 👤 [BILAL-KING-MD Official](https://github.com/BILAL-KING-MD) – Creator & Maintainer  
   - Optimized scripts, plugin management, core features
 
 ---
@@ -243,12 +243,12 @@ Platform	Status
 ## 🗃️ PROJECT ARCHITECTS
 
 <p align="center">
-  <a href="https://github.com/Arslan-MD">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arslan-MD&show_icons=true&theme=radical">
+  <a href="https://github.com/BILAL-KING-MD">
+    <img src="https://github-readme-stats.vercel.app/api?username=BILAL-KING-MD&show_icons=true&theme=radical">
   </a>
 </p>
 <div align="center">
-  <img src="https://github.com/Arslan-MD/Arslan-Ai/blob/main/assets/menu.gif?raw=true" width="100%"/>
+  <img src="https://github.com/BILAL-KING-MD/BILAL-Ai/blob/main/assets/menu.gif?raw=true" width="100%"/>
 </div>
 
 
@@ -257,10 +257,10 @@ Platform	Status
 > Never miss updates, feature drops, or guides!
 
 - 📢 **WhatsApp Channel**  
-  [![Join WhatsApp](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306)
+  [![Join WhatsApp]
 
 - ▶️ **YouTube: ArslanMD Official**  
-  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arslanmdofficial)
+  [![Subscribe YouTube]
 
 
 
