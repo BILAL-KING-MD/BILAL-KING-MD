@@ -259,8 +259,8 @@ Platform	Status
 - 📢 **WhatsApp Channel**  
   [![Join WhatsApp](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb6cIXx65yDHPJv5ef2R)
 
-- ▶️ **YouTube: Bilal Saab**  
-  [![Subscribe YouTube]https://youtube.com/@bilalsaab-re3qm?si=xF0NSQQrqLw-34wK
+- ▶️ **YouTube: Bilal Saab** 
+  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bilalsaab-re3qm?si=e0jchhcq6O49cuIY)
 
 
 
