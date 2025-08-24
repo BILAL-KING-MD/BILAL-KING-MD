@@ -1,8 +1,8 @@
 {
-  "name": "E3_HACKER_MD",
+  "name": "BILAL-KING-MD",
   "description": "Javascript WhatsApp bot made by E3_HACKER_MD",
-  "logo": "https://files.catbox.moe/p4yxcn.png",
-  "keywords": ["E3_HACKER_MD"],
+  "logo": "https://i.ibb.co/HT9rLxxc/shaban-md.jpg",
+  "keywords": ["BILAL-KING-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "E3_HACKER_MD"
+      "value": "BILAL-KING-MD"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY E3_HACKER_MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY BILAL-KING-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "*E3_HACKER_MD*"
+      "value": "*BILAL-KING-MD*"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923495178663"
+      "value": "92302761970"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝙀3_𝙃𝘼𝘾𝙆𝙀𝙍_𝙈𝘿"
+      "value": "BILAL-KING-MD"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/p4yxcn.png"
+      "value": "https://i.ibb.co/HT9rLxxc/shaban-md.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "**© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙀3_𝙃𝘼𝘾𝙆𝙀𝙍_𝙈𝘿 ❣️*"
+      "value": "**© ᴘᴏᴡᴇʀᴇᴅ ʙʏ BILAL-KING-MD ❣️*"
     },
 
       "DELETE_LINKS": {
