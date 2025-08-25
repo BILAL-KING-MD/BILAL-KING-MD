@@ -1,12 +1,12 @@
 {
-  "name": "E3_HACKER_MD",
+  "name": "BILAL-KING-MD",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By E3_HACKER_MD Official",
+  "description": "A WhatsApp Bot Created By BILAL-KING-MD Official",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name E3_HACKER_MD",
-    "stop": "pm2 stop E3_HACKER_MD",
-    "restart": "pm2 restart E3_HACKER_MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name BILAL-KING-MD",
+    "stop": "pm2 stop BILAL-KING-MD",
+    "restart": "pm2 restart BILAL-KING-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
